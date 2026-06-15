@@ -1,7 +1,5 @@
 package com.maginarium;
 
-import com.maginarium.controller.GameController;
-import com.maginarium.storage.PlayerStorage;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
